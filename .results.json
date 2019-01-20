@@ -5,9 +5,9 @@
     "passes": 14,
     "pending": 0,
     "failures": 0,
-    "start": "2019-01-20T01:34:59.060Z",
-    "end": "2019-01-20T01:34:59.142Z",
-    "duration": 82
+    "start": "2019-01-20T01:36:22.399Z",
+    "end": "2019-01-20T01:36:22.471Z",
+    "duration": 72
   },
   "tests": [
     {
@@ -20,14 +20,14 @@
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 5,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 4,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -104,7 +104,7 @@
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -122,14 +122,14 @@
     {
       "title": "renders 9 <MovieCard /> components",
       "fullTitle": "<MovieShowcase /> renders 9 <MovieCard /> components",
-      "duration": 5,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "passes all 4 props to every component",
       "fullTitle": "<MovieShowcase /> passes all 4 props to every component",
-      "duration": 4,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -206,7 +206,7 @@
     {
       "title": "renders an <img> tag if the IMDBRating prop is valid",
       "fullTitle": "<CardBack /> renders an <img> tag if the IMDBRating prop is valid",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
